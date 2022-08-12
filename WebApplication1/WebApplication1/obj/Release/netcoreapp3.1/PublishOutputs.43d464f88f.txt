@@ -1,0 +1,8 @@
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.exe
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.dll
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.deps.json
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.pdb
+D:\FPT\API_TEST\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\CoreHtmlToImage.dll
